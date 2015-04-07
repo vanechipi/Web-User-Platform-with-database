@@ -1,0 +1,88 @@
+body{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+#cabecera_login{
+	color: rgb(200,220,200);
+	text-align: center;
+	font-size: 32pt;
+	font-style: italic;
+	font-family: Futura;
+	margin: 0;
+	padding: 0;
+}
+#cabecera_login h1{
+	margin: 0;
+	padding: 0;
+}
+#div_principal{
+	width: 20em;
+	text-align: center;
+	margin: auto;
+	font-family: Futura;
+}
+.label{
+	margin-right: 3em;
+}
+#div_usuario{
+	text-align: right;
+}
+#div_pass{
+	text-align: right;
+}
+#field{
+	border: ridge;
+	border-color: rgb(150,170,150);
+	border-width: 1ex;
+}
+#field legend{
+	font-size: 20pt;
+	color: rgb(150,170,150);
+}
+.error{
+	font-style: italic;
+	color: red;
+	font-size: small;
+}
+.boton_con_imagen{
+	text-align: center;
+	border-style: groove;
+	border-bottom-color: rgb(0,50,150);
+	border-right-color: rgb(0,50,150);
+	border-top-color: rgb(0,150,250);
+	border-left-color: rgb(0,150,250);
+	border-width: 1ex;
+	background-color: rgb(0,100,200);
+	font-family: "Palatino Linotype";
+	color: white;
+	font-size: 15pt;
+	margin-top: 1ex;
+}
+.boton_con_imagen:hover{
+	color: orange;
+}
+.boton_con_imagen:active{
+	border-bottom-color: rgb(0,150,250);
+	border-right-color: rgb(0,150,250);
+	border-top-color: rgb(0,50,150);
+	border-left-color: rgb(0,50,150);
+}
+
+#div_error{
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+

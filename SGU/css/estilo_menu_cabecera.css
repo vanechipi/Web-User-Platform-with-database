@@ -1,0 +1,350 @@
+h1 {
+	 color:#C0C0C0 ;
+	 font-style: normal;
+	 font-weight: bold;
+	 background:url(../images/fondo.jpg);
+	 font-size: 50px;
+	 font-style:italic;
+	 font-weight:bolder;
+	 color: #FFFFFF;
+	 text-decoration:none;
+	 padding:30px;
+	 margin-top: 0px;
+	 
+	 -moz-border-radius-topleft:80px;
+	 -moz-border-radius-topright:70px;
+	 -moz-border-radius:60px;
+	 border-radius: 10px;
+	 -moz-border-radius-bottomright:40px;
+	 
+}
+#div_login{
+	margin-left: 2em;
+}
+.navi1 {
+    margin:0px;
+    padding:0px;
+
+}
+.navi1 li {
+-moz-border-radius-topleft:80px;
+-moz-border-radius-topright:70px;
+-moz-border-radius:60px;
+border-radius: 10px;
+-moz-border-radius-bottomright:40px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        margin:17px;
+        padding:7px;
+        width: 150px;
+        border:3px solid black;
+        text-align:center;
+        list-style:none;
+        font-family: Segoe UI, Arial;
+        font-size: 14px;
+       /*float:left;*/
+    }
+.navi1 li:hover {
+-moz-border-radius-topleft:20px;
+-moz-border-radius-topright:20px;
+-moz-border-radius-bottomleft:0px;
+-moz-border-radius-bottomright:0px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        border:1px solid black;
+}
+.navi1 li a:hover {
+        color: #ffffff;
+        font-style: Italic;
+        text-decoration: none;
+}
+.navi1 a {
+        color: #ffffff;
+        font-weight: bold;
+}
+#matriculas {
+    margin:0px;
+    padding:0px;
+
+}
+#matriculas li {
+-moz-border-radius-topleft:80px;
+-moz-border-radius-topright:70px;
+-moz-border-radius:60px;
+border-radius: 10px;
+-moz-border-radius-bottomright:40px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        margin:10px;
+        margin-left:50px;
+        padding:3px;
+        width: 150px;
+        border:3px solid black;
+        text-align:center;
+        list-style:circle;
+        font-family: Segoe UI, Arial;
+        font-size: 14px;
+        /*display:none;
+       /*float:left;*/
+    }
+#matriculas li:hover {
+-moz-border-radius-topleft:20px;
+-moz-border-radius-topright:20px;
+-moz-border-radius-bottomleft:0px;
+-moz-border-radius-bottomright:0px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        border:1px solid black;
+}
+#matriculas li a:hover {
+        color: #ffffff;
+        font-style: Italic;
+        text-decoration: none;
+}
+#matriculas a {
+        color: #ffffff;
+        font-weight: bold;
+}
+#reservas {
+    margin:10px;
+    padding:0px;
+    
+
+}
+#reservas li {
+-moz-border-radius-topleft:80px;
+-moz-border-radius-topright:70px;
+-moz-border-radius:60px;
+border-radius: 10px;
+-moz-border-radius-bottomright:40px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        margin:10px;
+        margin-left:50px;
+        padding:3px;
+        width: 150px;
+        border:3px solid black;
+        text-align:center;
+        list-style:circle;
+        font-family: Segoe UI, Arial;
+        font-size: 14px;
+       /*float:left;*/
+    }
+#reservas li:hover {
+-moz-border-radius-topleft:20px;
+-moz-border-radius-topright:20px;
+-moz-border-radius-bottomleft:0px;
+-moz-border-radius-bottomright:0px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        border:1px solid black;
+}
+#reservas li a:hover {
+        color: #ffffff;
+        font-style: Italic;
+        text-decoration: none;
+}
+#reservas a {
+        color: #ffffff;
+        font-weight: bold;
+}
+#evento {
+    margin:0px;
+    padding:0px;
+
+}
+#evento li {
+-moz-border-radius-topleft:80px;
+-moz-border-radius-topright:70px;
+-moz-border-radius:60px;
+border-radius: 10px;
+-moz-border-radius-bottomright:40px;
+background:url(../images/fondo.jpg);
+      color:#000000;
+        margin:10px;
+        padding:3px;
+        width: 150px;
+        border:3px solid black;
+        text-align:center;
+        list-style:circle;
+        font-family: Segoe UI, Arial;
+        font-size: 14px;
+        margin-left:50px;
+       /*float:left;*/
+    }
+#evento li:hover {
+-moz-border-radius-topleft:20px;
+-moz-border-radius-topright:20px;
+-moz-border-radius-bottomleft:0px;
+-moz-border-radius-bottomright:0px;
+background:url(../images/fondo.jpg);
+        color:#000000;
+        border:1px solid black;
+}
+#evento li a:hover {
+        color: #ffffff;
+        font-style: Italic;
+        text-decoration: none;
+}
+#evento a {
+        color: #ffffff;
+        font-weight: bold;
+}
+
+#etssi{
+	margin-right:200px;
+	margin-left:50px;
+	background: url(../images/etssi.jpg);
+	float:right;
+}
+#mates{
+	margin-left:50px;
+	background: url(../images/UsMates.jpg);
+	float:right;
+}
+#fisica{
+	margin-left:50px;
+	background: url(../images/UsFisica.jpg);
+	float:right;
+}
+#biologia{
+	margin-left:60px;
+	background: url(../images/Usbiologia.jpg);
+	float:right;
+}
+#Foot{
+	color:black;
+	font-weight:bold;
+	font-style:italic;
+	text-align:center;
+	margin-top:200px;
+	margin-left:150px;
+	margin-right:150px;
+	position: relative;
+	float: right;
+}
+
+
+
+#Title{
+	margin-top:10px;
+}
+#Date{
+	margin-top:6px;
+	margin: 1em 0 1em 0em;
+	width: 300%;
+}
+#titulo {
+  width: 3em;
+  float: left;
+  font-style:normal;
+  font-weight:bold;
+}
+#Lugar{
+  width: 3em;
+  float: left;
+  font-style:normal;
+  font-weight:bold;
+	
+}
+#Hora{
+	margin-top:1px;
+	width: 3em;
+  float: left;
+  font-style:normal;
+  font-weight:bold;
+}
+#fecha{
+	margin-top:1px;
+	width: 2em;
+  font-style:normal;
+  font-weight:bold;
+}
+#fechaF{
+		margin-top:1px;
+	width: 2em;
+  font-style:normal;
+  font-weight:bold;
+}
+#descripcion{
+	width: 90%;
+  float: left;
+  font-style:normal;
+  font-weight:bold;
+}
+#Cuerpo{
+	  font-weight:bold;
+}
+#submit{
+	margin-top:2px;
+	margin-right:50%;
+	width: 15%;
+  font-style:normal;
+}
+#Time{
+	margin-top:6px;
+	margin: 1em 0 1em 0em;
+	width: 300%;
+}
+#Site{
+	margin-top:6px;
+	margin: 1em 0 1em 0em;
+	width: 300%;
+}
+fieldset {
+	height: 35em;
+    margin: 0em 0em 1em 0em;
+	width: 40em;
+	background: url(../images/Fondos.jpg);
+}
+legend{
+	color:black;
+}
+
+#div_form_event{
+	margin-right: 500px;
+	float: right;
+}
+
+.errorFormulario{
+	color: red;
+	font-style: italic;
+	font-size: small;
+}
+
+#div_tabla{
+	float: right;
+	margin-top: 3ex;
+	margin-right: 9em;
+	font-size: smaller;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#div_tabla th{
+	background-image: url(../images/fondo.jpg);
+	 -moz-border-radius-topleft:80px;
+	 -moz-border-radius-topright:70px;
+	 -moz-border-radius:60px;
+	 border-radius: 10px;
+	 -moz-border-radius-bottomright:40px;
+	 font-style: italic;
+	 color: white;
+	 padding-left: 1em;
+	 padding-right: 1em;
+}
+
+#div_tabla td{
+	border-bottom:inset;
+	border-bottom-color: #C0C0C0;
+}
+
+#div_tabla tr:hover{
+	color: white;
+	background-image: url(../images/fondo.jpg);
+}
+
+
+
+
+

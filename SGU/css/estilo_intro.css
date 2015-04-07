@@ -1,0 +1,49 @@
+body {
+background-image:url(../images/yellow_ws.jpg);
+background-size: 100% 190%;
+background-repeat: no-repeat;
+}
+label {
+  margin: .2em 0 0 0;
+}
+.btn {
+  display: block;
+  margin: 1em 0;
+  width: 30%;
+}
+div {
+  margin: .7em 0;
+}
+div label {
+  width: 30%;
+  float: left;
+  color:white;
+  font-style:normal;
+  font-size:large;
+  font-weight:bold;
+}
+.password {
+	width: 48%;
+}
+fieldset {
+	height: 7.429em;
+    margin: 15em 0em 1.111em 30em;
+	border: 1px groove #505050 ;
+	width: 20em;
+	border-width:4px;
+	/*background-color: #F8F8F8 ;	*/
+	background: url(../images/wallpaperhtc.jpg);
+	
+}
+fieldset legend{
+	color: white;
+}
+input:focus {
+  border: 2px solid #000;
+  background: #F3F3F3;
+ }
+ #errorNombre,#errorPass{
+ 	color: red;
+ 	font-style: italic;
+ 	font-size: small;
+ }
